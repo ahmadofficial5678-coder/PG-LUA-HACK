@@ -1,0 +1,9 @@
+return{
+CTL CONFIG{
+["anteena"]=true 
+["accuracy"]=100%
+["all skins"]=true
+}
+color canfig{
+"vissible colour"=3
+"invisible colour"1
